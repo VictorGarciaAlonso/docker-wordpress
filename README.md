@@ -6,10 +6,10 @@
 
 ## Contents
 This project generates a wordpress blog with mysql database and phpmyadming, adding a new relic apm agent on the wordpress blog.
-mysql version : 8
-wordpress version : latest
-php myadmin version: latest
-new relic apm agent : 9.9.0.260
+- mysql version : 8
+- wordpress version : latest
+- php myadmin version: latest
+- new relic apm agent : 9.9.0.260
 
 ## Usage
 start docker: 
